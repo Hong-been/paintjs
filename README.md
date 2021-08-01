@@ -4,7 +4,7 @@ Painting Board made with VanillaJS
 ## Functions
 1.The canvas to be drawn. (Background-default is White)
   1. Rightclick is prevented in the canvas area.
-  1. Drawing could be in the canvas only and will be stopped outside.
+  2. 2. Drawing could be in the canvas only and will be stopped outside.
 2. Select among 9 colors. (Default is Black)
 3. Move the range to adjust the line's width. (Default is the middle of range)
 4. Fill the whole canvas with the chosen color when clicking the FILL button and click the FILL button to change the text "FILL" to "PAINT".
